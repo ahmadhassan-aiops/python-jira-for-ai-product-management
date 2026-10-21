@@ -1,0 +1,10 @@
+Summary,Project Key,Issue Type,Description,Priority
+Sample Task 1,MYP,Task,This is a sample task,Medium
+Sample Bug 1,MYP,Bug,This is a sample bug,High
+Sample Story 1,MYP,Story,This is a sample story,Low
+Sample Task 2,MYP,Task,Another task for Project 2,Medium
+Sample Bug 2,MYP,Bug,A bug in Project 2,Critical
+Sample Story 2,KAN,Story,A story in Project 2,Low
+Critical Bug,KAN,Bug,Critical bug that needs immediate attention,Critical
+Enhancement Request,KAN,Task,Feature improvement requested,Medium
+Research Task,KAN,Task,Investigate a new technology,High
